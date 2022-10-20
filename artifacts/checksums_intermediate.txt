@@ -1,0 +1,1 @@
+2dbff3b6f6c5198ed4d5871c5df9fb13c3addaac97703fb967414a185a134146  ./target/wasm32-unknown-unknown/release/phonebook.wasm
